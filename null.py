@@ -24,3 +24,5 @@ def check_null_rows(csv_file):
 if __name__ == "__main__":
     csv_file = input("Enter the path to your CSV file: ")
     check_null_rows(csv_file)
+
+# Our dataset has no null values.
